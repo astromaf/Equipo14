@@ -1,7 +1,7 @@
 # Equipo14
 
 He subido:
-  - archivo vacio ".ipbn" 
+  - archivo vacio ".ipynb" 
   - data set ".csv" (dentro de carpeta datos)
   
   **Objetivo**:
